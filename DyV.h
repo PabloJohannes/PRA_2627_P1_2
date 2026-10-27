@@ -3,7 +3,7 @@
 
 #include<iostream>
 #include<vector>
-#include<chrono>
+#include<chrono> //en las diapositiva pone que lo usemos, pero no sé dónde y para qué se quiere que lo usemos
 
 using namespace std;
 
